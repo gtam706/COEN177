@@ -1,0 +1,4 @@
+Step 3:
+From what I see the code is doing, the code seems to do some parrallel processing as its running the parent and child process at the same. As they seem to be alternating printing.
+Step 4:
+The difference that I see between the inputs 500 and 5000, is that 5000 takes a little bit longer to complete all processes. Probably increases delay between each loop.

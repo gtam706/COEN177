@@ -1,0 +1,1 @@
+From running the program. I can see the program prints the amount of users logged in, what's the home path and the user currently running the device. Based off the user, the program will run. That program being for calculating areas. If the user doesn't match it prints "Check who logged in".

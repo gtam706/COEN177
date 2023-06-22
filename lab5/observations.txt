@@ -1,0 +1,2 @@
+Step 1:
+	Program creates threads and then has each of them run through a 'critical section' with only 1 of the threads running the code in the critical regions at a given time	
